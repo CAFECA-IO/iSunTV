@@ -66,8 +66,8 @@ Import css
 Moz Selection
 ================================================*/
 :root {
-    --primary-color: #e50916;
-    --primarydark-color: #b81d24;
+    --primary-color: #e56916;
+    --primarydark-color: #cc8a60;
     --black-color: #221f1f;
     --dark-color: #161616;
     --secondary-color: #cecfd1;
@@ -6324,7 +6324,7 @@ Icon-Box
     background-color: var(--black-color);
     border-style: solid;
     border-width: 0px 0px 3px 0px;
-    border-color: #E50916;
+    border-color: #e56916;
     text-align: center;
 }
 
@@ -6334,7 +6334,7 @@ Icon-Box
 
 .gen-icon-box-style-1 .gen-icon-box-icon .gen-icon-animation {
     display: inline-block;
-    background-color: #E50916;
+    background-color: #e56916;
     color: #ffffff;
     text-align: center;
     border: 3px solid #ffffff;
