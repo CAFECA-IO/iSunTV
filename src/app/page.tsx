@@ -26,7 +26,7 @@ export default function Home() {
       {/*=========== Loader =============*/}
       <div id="gen-loading">
         <div id="gen-loading-center">
-          <img src="images/logo-1.png" alt="loading" />
+          <img src="images/logo.png" alt="loading" />
         </div>
       </div>
       {/*=========== Loader =============*/}
@@ -40,7 +40,7 @@ export default function Home() {
                   <a className="navbar-brand" href="#">
                     <img
                       className="img-fluid logo"
-                      src="images/logo-1.png"
+                      src="images/logo.png"
                       alt="streamlab-image"
                     />
                   </a>
@@ -4413,7 +4413,7 @@ export default function Home() {
                     <div className="row">
                       <div className="col-sm-12">
                         <img
-                          src="images/logo-1.png"
+                          src="images/logo.png"
                           className="gen-footer-logo"
                           alt="gen-footer-logo"
                         />
